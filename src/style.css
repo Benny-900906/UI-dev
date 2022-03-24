@@ -5,6 +5,10 @@
   list-style: none;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .auto-width {
   width: 100%;
   object-fit: cover;
